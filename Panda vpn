@@ -1,1 +1,11 @@
-{ "show": true, "version_name": "8.0.5", "force_update": true "title": "New Update Available!", "message": "Update the latest version to enjoy the new features and improvements.", "button_text": "UPDATE NOW", "cancel_button_text": "CLOSE", "action_url": "https://Telegram.me/mxapk ", "theme": "dark" }
+{
+  "show": true,
+  "version_name": "8.0.5",
+  "force_update": true
+  "title": "New Update Available!",
+  "message": "Update the latest version to enjoy the new features and improvements.",
+  "button_text": "UPDATE NOW",
+  "cancel_button_text": "CLOSE",
+  "action_url": "https://Telegram.me/mxapk ",
+  "theme": "dark"
+}
