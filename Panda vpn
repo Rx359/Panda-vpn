@@ -1,6 +1,6 @@
 {
-  "show": true,
-  "version_name": "9.0.5",
+  "show": false,
+  "version_name": "8.0.4",
   "force_update": false
   "title": "New Update Available!",
   "message": "Update the latest version to enjoy the new features and improvements.",
